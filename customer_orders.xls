@@ -1,0 +1,11 @@
+Order_ID,Customer,Category,Sales,Quantity,Discount
+101,Alice,Electronics,1200,2,5.0
+102,Bob,Furniture,800,1,10.0
+103,Charlie,Electronics,950,2,
+104,David,Clothing,300,3,0.0
+105,Emma,Furniture,650,1,15.0
+106,Frank,Electronics,1500,2,5.0
+107,Grace,Clothing,400,4,0.0
+108,Henry,Furniture,700,1,
+109,Isabella,Electronics,1100,2,10.0
+110,Jack,Clothing,350,3,5.0
